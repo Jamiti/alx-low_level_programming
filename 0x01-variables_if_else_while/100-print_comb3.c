@@ -23,6 +23,7 @@ putchar(p);
 if (d == 'a' && p == '9')
 continue;
 putchar(',');
+putchar(' ');
 }
 }
 }
