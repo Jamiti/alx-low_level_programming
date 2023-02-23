@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * main - Checks for upper case character
+ * main - checks for uppercase characters
+ *
  * Returns 1 if c is uppercase
  * Returns 0 otherwise
  */
@@ -16,4 +17,5 @@ else
 {
 return (0);
 }
+_putchar('\n');
 }
