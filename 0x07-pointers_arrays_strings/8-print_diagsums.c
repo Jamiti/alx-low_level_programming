@@ -19,7 +19,7 @@ sum1 += a[index];
 a += size;
 }
 a -= size;
-for
+for (index = 0; index < size; index++)
 {
 sum2 += a[index];
 a -= size;
